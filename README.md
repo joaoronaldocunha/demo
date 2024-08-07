@@ -1,2 +1,6 @@
-# demo
-Demonstração SEPESQI
+# Desenvolvimento Web
+
+- **Equipe:** Nome Equipe
+- **Integrantes:**
+
+ 
